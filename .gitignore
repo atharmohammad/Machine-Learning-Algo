@@ -14,3 +14,5 @@ Image_Segmentation/image1.jpg
 neural_networks/Pokemon_Challenge/dataset
 neural_networks/Pokemon_Challenge/Temp
 neural_networks/CNN/athar.jpg
+neural_networks/RNN/best_model.h5
+neural_networks/RNN/overfitting_model.h5
